@@ -11,3 +11,8 @@ Core build for nonprofit MyLife Membership Services Organization
   - senses?
   - perceptions?
   - life cycle? //  we might logically need to build death into their equation so that they could give us consensual eternity -- i.e., *I* take your consciousness-space, AI
+- environment variables
+  - variables unique to entity in **any** *actual* (virtual) environment
+- instantiation variables
+  - unique instance definition
+  - blockchain? SHA?
